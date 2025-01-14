@@ -2,46 +2,47 @@
 
 # Northwind Dashboard - Power BI
 
-Bu proje, **Northwind** veritabanını kullanarak Power BI'da oluşturulan bir iş zekası dashboardunu içermektedir. Dashboard, Northwind'in iş süreçlerini ve verilerini analiz etmek için etkili ve görsel bir çözüm sunar.
+Bu proje, **Northwind** veritabanı kullanılarak Power BI ile gerçekleştirilen detaylı analizleri ve görselleştirmeleri içermektedir. Aşağıda, çeşitli analizler için oluşturulan dashboardlar ve görselleştirmeler yer almaktadır.
 
-## 🛠️ Proje Hakkında
+---
 
-Northwind veritabanı, ticari iş süreçlerini temsil eden örnek bir veri kümesidir. Bu projede, Northwind verileri analiz edilmiş ve aşağıdaki gibi iş sorularına yanıt veren görselleştirmeler oluşturulmuştur:
+## 📊 Genel Bakış
+Northwind veritabanında yer alan iş süreçlerine dair genel bir özet sunulmaktadır. Bu bölüm, işin mevcut durumuna hızlı bir bakış sağlar.
 
-- **Satış performansı:** Ürün, kategori ve bölge bazında satış analizleri.
-- **Müşteri analizi:** En çok sipariş veren müşteriler ve sipariş trendleri.
-- **Tedarikçi performansı:** Tedarikçi bazında ürün tedarik süreçleri ve performans değerlendirmesi.
-- **Çalışan performansı:** Çalışanların satış ve sipariş bazındaki katkıları.
+![Genel Bakış](https://github.com/user-attachments/assets/8ddc60d3-5be2-48dd-91be-eaa62e3c149c)
 
-## 📊 Dashboard Özellikleri
+---
 
-Dashboard şunları içermektedir:
+## 📦 Ürün Stok Analizi
+Ürünlerin stok durumları ve kategorilere göre dağılımlarının analiz edildiği bir görselleştirme.
 
-- **Satış Trendleri:** Zaman bazlı satış analizleri (yıllık, aylık, haftalık).
-- **Kategori Performansı:** Hangi ürün kategorilerinin en çok gelir getirdiğini görselleştirme.
-- **Müşteri Davranışları:** En çok sipariş veren müşteriler ve sipariş sıklığı.
-- **Çalışan Etkinliği:** Çalışanların satışa katkı oranları.
-- **Coğrafi Analiz:** Bölge ve ülke bazında satış performansları.
+![Ürün Stok Analizi](https://github.com/user-attachments/assets/3aa57f9e-f17d-4675-8e13-b25176f6d111)
 
-## 🖼️ Dashboard Görselleri
+---
 
-Aşağıda oluşturulan dashboarddan bazı örnek görseller yer almaktadır:
+## 👥 Müşteri Analizi
+Müşterilerin sipariş davranışlarını ve en çok katkıda bulunan müşterileri analiz eden bir dashboard.
 
-### 1. Genel Bakış
-![Genel Bakış](https://github.com/user-attachments/assets/2b394ef0-ce40-4846-8c83-37e2edc60a50)
+![Müşteri Analizi](https://github.com/user-attachments/assets/72919f64-0e79-49b2-ae03-1beb781ea1aa)
 
-### 2. Satış Trendleri
-![Satış Trendleri](https://github.com/user-attachments/assets/e491d6d6-da92-4989-a07d-30632cba2487)
+---
 
-### 3. Kategori Performansı
-![Kategori Performansı](https://github.com/user-attachments/assets/b647bf83-cc51-493c-8e43-95bba0c7be7a)
+## 🧑‍💼 Çalışan Analizi
+Çalışanların siparişlere olan katkıları ve performanslarının analiz edildiği bir bölüm.
 
-### 4. Müşteri Analizi
-![Müşteri Analizi](https://github.com/user-attachments/assets/5ac821a0-5ac2-49e7-9f17-28b822909fab)
+![Çalışan Analizi](https://github.com/user-attachments/assets/df12946c-5bc0-4365-a489-bddba112bbbe)
 
-### 5. Çalışan Performansı
-![Çalışan Performansı](https://github.com/user-attachments/assets/4b17bf5f-bb3c-44bd-8d6f-40381c31c01e)
+---
 
-### 6. Coğrafi Analiz
-![Coğrafi Analiz](https://github.com/user-attachments/assets/2a145905-cf32-4195-aa04-452b60ce0b30)
+## 📦 Sipariş Analizi
+Sipariş süreçlerini ve zaman içindeki sipariş trendlerini görselleştiren bir analiz.
+
+![Sipariş Analizi](https://github.com/user-attachments/assets/c1b0868a-b2a6-4ceb-9634-d5d18352bf71)
+
+---
+
+## 🚚 Nakliye Analizi
+Nakliye süreçlerini, taşıma sürelerini ve bölgesel analizleri içeren bir görselleştirme.
+
+![Nakliye Analizi](https://github.com/user-attachments/assets/8b151093-64bf-4d4c-8d58-b360263941fb)
 
